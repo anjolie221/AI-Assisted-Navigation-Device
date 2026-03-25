@@ -9,7 +9,7 @@ export default ({ config }) => ({
   icon: "./assets/images/icon.png", // Fixed: use correct path to match app.json
   userInterfaceStyle: "light",
   splash: {
-    image: "./assets/splash.png",
+    image: "./assets/splash-icon.png",
     resizeMode: "contain",
     backgroundColor: "#ffffff",
   },
@@ -27,7 +27,7 @@ export default ({ config }) => ({
   },
   android: {
     adaptiveIcon: {
-      foregroundImage: "./assets/adaptive-icon.png",
+      // foregroundImage: "./assets/adaptive-icon.png",
       backgroundColor: "#ffffff",
     },
   },

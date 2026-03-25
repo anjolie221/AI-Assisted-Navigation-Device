@@ -35,7 +35,7 @@ export default function Footer({ navigation }: any) {
 
         <Pressable
           style={styles.bottomItem}
-          onPress={() => navigation.navigate("exterior")}
+          // onPress={() => navigation.navigate("exterior")}
         >
           <Icon name="road" size={30} color="#FCA311" />
         </Pressable>
