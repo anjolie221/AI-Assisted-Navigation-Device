@@ -9,9 +9,8 @@ Add your details on a new line below in this format:
 Name | Student ID | GitHub Username
 
 Auritro Sami | s226219941 | AuritroS
-<<<<<<< HEAD
 Ghaith Fahad | s223752262 | Ghaithotb
-Anjolie Susan Philip | s223298513 | anjolie221
-=======
 ARJUN BIJU | s223663972 | Rinzle-r
->>>>>>> b965193 (onboarding: add Arjun Biju)
+Hasindu Mediwaka | s224742583 | hasindumediwaka
+Anjolie Susan Philip|s223298513|anjolie221
+ARJUN BIJU | s223663972 | Rinzle-r
